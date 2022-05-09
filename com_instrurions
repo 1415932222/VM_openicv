@@ -1,0 +1,7 @@
+常用指令
+ssh -T git@github.com
+git add .
+git commit -m "update"
+git push -u origin main
+git clone https://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@github.com/1415932222/VM_openicv.git
+
